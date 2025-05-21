@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="data_de_formacao" label="Data de Formação" language="en" table="x_1766454_unit_alunos">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>data_de_formacao</element>
+            <help/>
+            <hint/>
+            <label>Data de Formação</label>
+            <language>en</language>
+            <name>x_1766454_unit_alunos</name>
+            <plural>Data de Formaçãos</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-21 02:39:04</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Data de Formação</sys_name>
+            <sys_package display_value="UNIT" source="x_1766454_unit">003a1503c3612210832cb8ddd401317d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="UNIT">003a1503c3612210832cb8ddd401317d</sys_scope>
+            <sys_update_name>sys_documentation_x_1766454_unit_alunos_data_de_formacao_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-21 02:39:04</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

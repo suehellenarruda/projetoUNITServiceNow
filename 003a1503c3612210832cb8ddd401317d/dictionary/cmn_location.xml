@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="all_tables.text_index_translations=true,kagami_csindex_enabled=true" db_object_id="1e7ad932e802121087debb3e47d14f23" label="Location" max_length="40" name="cmn_location" text_index="true" type="collection">
+        <element attributes="encode_utf8=false" label="Localização" max_length="32" name="u_localiza_o" reference="cmn_location" type="reference"/>
+        <index name="index">
+            <element name="u_localiza_o"/>
+        </index>
+    </element>
+</database>
