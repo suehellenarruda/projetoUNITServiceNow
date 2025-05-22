@@ -1,3 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="5c8d9587c3612210832cb8ddd401311b" label="Cadeiras" max_length="40" name="x_1766454_unit_cadeiras" type="collection"/>
+    <element db_object_id="5c8d9587c3612210832cb8ddd401311b" label="Cadeiras" max_length="40" name="x_1766454_unit_cadeiras" type="collection">
+        <element display="true" label="Nome da Cadeira" max_length="40" name="nome_da_cadeira" type="string"/>
+        <element label="Professores" max_length="32" name="professores" reference="x_1766454_unit_professores" type="reference"/>
+        <element choice="1" label="Período" max_length="40" name="periodo" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="8° Período" sequence="8" value="8 periodo"/>
+                <element inactive_on_update="false" label="6° Período" sequence="6" value="6 periodo"/>
+                <element inactive_on_update="false" label="1° Período" sequence="1" value="1 periodo"/>
+                <element inactive_on_update="false" label="3° Período" sequence="3" value="3 periodo"/>
+                <element inactive_on_update="false" label="9° Período" sequence="9" value="9 periodo"/>
+                <element inactive_on_update="false" label="10° Período" sequence="10" value="10 periodo"/>
+                <element inactive_on_update="false" label="2° Período" sequence="2" value="2 periodo"/>
+                <element inactive_on_update="false" label="7° Período" sequence="7" value="7 periodo"/>
+                <element inactive_on_update="false" label="4° Período" sequence="4" value="4 periodo"/>
+                <element inactive_on_update="false" label="5° Período" sequence="5" value="5 periodo"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="professores"/>
+        </index>
+    </element>
 </database>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Alunos">c45d1187c3612210832cb8ddd4013128</application>
+        <application display_value="UNIT">c2ddbd23c3652210832cb8ddd4013105</application>
         <assessment/>
         <device_type/>
         <filter/>
@@ -10,7 +10,7 @@
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>Alunos</mobile_title>
+        <mobile_title>UNIT</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_1766454_unit_alunos</name>
         <order/>
@@ -18,22 +18,22 @@
         <query/>
         <report/>
         <require_confirmation>true</require_confirmation>
-        <roles>x_1766454_unit.alunos_user</roles>
+        <roles/>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-05-21 00:53:37</sys_created_on>
+        <sys_created_on>2025-05-22 16:33:12</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>445d1187c3612210832cb8ddd401312c</sys_id>
+        <sys_id>cfbdbdefc3252210832cb8ddd40131e6</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Alunos</sys_name>
         <sys_overrides/>
         <sys_package display_value="UNIT" source="x_1766454_unit">003a1503c3612210832cb8ddd401317d</sys_package>
         <sys_policy/>
         <sys_scope display_value="UNIT">003a1503c3612210832cb8ddd401317d</sys_scope>
-        <sys_update_name>sys_app_module_445d1187c3612210832cb8ddd401312c</sys_update_name>
+        <sys_update_name>sys_app_module_cfbdbdefc3252210832cb8ddd40131e6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-21 00:53:37</sys_updated_on>
+        <sys_updated_on>2025-05-22 16:33:12</sys_updated_on>
         <timeline_page/>
         <title>Alunos</title>
         <uncancelable>false</uncancelable>

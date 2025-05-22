@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Cadeiras">f09d5187c3612210832cb8ddd40131a3</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>UNIT</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1766454_unit_cadeiras</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-22 16:24:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>21cbb1afc3252210832cb8ddd401319a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>UNIT</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="UNIT" source="x_1766454_unit">003a1503c3612210832cb8ddd401317d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">003a1503c3612210832cb8ddd401317d</sys_scope>
+        <sys_update_name>sys_app_module_21cbb1afc3252210832cb8ddd401319a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-22 16:24:10</sys_updated_on>
+        <timeline_page/>
+        <title>UNIT</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UNIT">003a1503c3612210832cb8ddd401317d</application>
+        <file_path/>
+        <instance_id>5d0397d03b3f4a18a36804e0b5e45a1b</instance_id>
+        <instance_name>dev284242</instance_name>
+        <name>sys_app_module_21cbb1afc3252210832cb8ddd401319a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Cadeiras">f09d5187c3612210832cb8ddd40131a3</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>UNIT</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1766454_unit_cadeiras</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-22 16:24:10</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>21cbb1afc3252210832cb8ddd401319a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>UNIT</sys_name><sys_overrides/><sys_package display_value="UNIT" source="x_1766454_unit">003a1503c3612210832cb8ddd401317d</sys_package><sys_policy/><sys_scope display_value="UNIT">003a1503c3612210832cb8ddd401317d</sys_scope><sys_update_name>sys_app_module_21cbb1afc3252210832cb8ddd401319a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-22 16:24:10</sys_updated_on><timeline_page/><title>UNIT</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-947135692</payload_hash>
+        <record_name>UNIT</record_name>
+        <reverted_from/>
+        <source>c740a2c7c3a52210832cb8ddd4013182</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-22 16:24:10</sys_created_on>
+        <sys_id>70ebb96fc3252210832cb8ddd40131d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196f8cf339a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-22 16:24:10</sys_updated_on>
+        <type>Module</type>
+        <update_guid>74ebb96f9a252210e17d46d55d98b0d0</update_guid>
+        <update_guid_history>74ebb96f9a252210e17d46d55d98b0d0:-947135692</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="UNIT">8a2cb9afc3252210832cb8ddd401310b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-22 16:25:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>14f564bdb2084ee8ba18a155adf62ef9</sys_id>
+        <sys_metadata>21cbb1afc3252210832cb8ddd401319a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>UNIT</sys_name>
+        <sys_package display_value="UNIT" source="x_1766454_unit">003a1503c3612210832cb8ddd401317d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">003a1503c3612210832cb8ddd401317d</sys_scope>
+        <sys_scope_delete display_value="">0de568ca5eef40d48428a7234bfe9f10</sys_scope_delete>
+        <sys_update_name>sys_app_module_21cbb1afc3252210832cb8ddd401319a</sys_update_name>
+        <sys_update_version display_value="sys_app_module_21cbb1afc3252210832cb8ddd401319a">70ebb96fc3252210832cb8ddd40131d1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-22 16:25:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
