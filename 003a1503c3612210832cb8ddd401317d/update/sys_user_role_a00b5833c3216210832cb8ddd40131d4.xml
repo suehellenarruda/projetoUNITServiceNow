@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Alunos da UNIT</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1766454_unit.UNIT_aluno</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>UNIT_aluno</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-23 03:59:40</sys_created_on>
+        <sys_id>a00b5833c3216210832cb8ddd40131d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1766454_unit.UNIT_aluno</sys_name>
+        <sys_package display_value="UNIT" source="x_1766454_unit">003a1503c3612210832cb8ddd401317d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">003a1503c3612210832cb8ddd401317d</sys_scope>
+        <sys_update_name>sys_user_role_a00b5833c3216210832cb8ddd40131d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-23 03:59:40</sys_updated_on>
+    </sys_user_role>
+</record_update>
