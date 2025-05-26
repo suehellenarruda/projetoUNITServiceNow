@@ -16,7 +16,7 @@
         <delete_roles/>
         <dependent/>
         <dependent_on_field/>
-        <display>false</display>
+        <display>true</display>
         <dynamic_creation>false</dynamic_creation>
         <dynamic_creation_script/>
         <dynamic_default_value/>
@@ -53,7 +53,7 @@
         <sys_scope display_value="UNIT">003a1503c3612210832cb8ddd401317d</sys_scope>
         <sys_update_name>sys_dictionary_x_1766454_unit_m2m_alunoscadeiras_x_1766454_unit_cadeiras</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-22 22:07:36</sys_updated_on>
+        <sys_updated_on>2025-05-25 18:57:14</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

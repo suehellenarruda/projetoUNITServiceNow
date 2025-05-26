@@ -7,14 +7,14 @@
         <hint/>
         <name/>
         <order>100</order>
-        <roles/>
+        <roles>x_1766454_unit.UNIT_admin,x_1766454_unit.UNIT_aluno,x_1766454_unit.UNIT_professor,x_1766454_unit.UNIT_usuario</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-05-22 16:32:58</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>c2ddbd23c3652210832cb8ddd4013105</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>UNIT</sys_name>
         <sys_overrides/>
         <sys_package display_value="UNIT" source="x_1766454_unit">003a1503c3612210832cb8ddd401317d</sys_package>
@@ -22,7 +22,7 @@
         <sys_scope display_value="UNIT">003a1503c3612210832cb8ddd401317d</sys_scope>
         <sys_update_name>sys_app_application_c2ddbd23c3652210832cb8ddd4013105</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-22 16:32:58</sys_updated_on>
+        <sys_updated_on>2025-05-26 01:27:08</sys_updated_on>
         <title>UNIT</title>
         <view_name/>
     </sys_app_application>

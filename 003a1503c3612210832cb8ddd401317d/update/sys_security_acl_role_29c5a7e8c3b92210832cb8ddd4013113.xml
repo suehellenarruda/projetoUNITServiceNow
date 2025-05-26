@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-26 02:41:13</sys_created_on>
+        <sys_id>29c5a7e8c3b92210832cb8ddd4013113</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_1766454_unit.UNIT_admin</sys_name>
+        <sys_package display_value="UNIT" source="x_1766454_unit">003a1503c3612210832cb8ddd401317d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">003a1503c3612210832cb8ddd401317d</sys_scope>
+        <sys_security_acl display_value="x_1766454_unit_professores.first_name">70c5632cc3b92210832cb8ddd401316b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_29c5a7e8c3b92210832cb8ddd4013113</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-26 02:41:13</sys_updated_on>
+        <sys_user_role display_value="x_1766454_unit.UNIT_admin" name="x_1766454_unit.UNIT_admin">deca5433c3216210832cb8ddd401318a</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
