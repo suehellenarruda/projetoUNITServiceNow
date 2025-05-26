@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>Alunos</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_1766454_unit_alunos</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="User" name="sys_user">aa7ad932e802121087debb3e47d14f72</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 00:53:37</sys_created_on>
+        <sys_id>482d5147c3612210832cb8ddd40131cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Alunos</sys_name>
+        <sys_package display_value="UNIT" source="x_1766454_unit">003a1503c3612210832cb8ddd401317d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">003a1503c3612210832cb8ddd401317d</sys_scope>
+        <sys_update_name>sys_db_object_482d5147c3612210832cb8ddd40131cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 00:53:37</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_1766454_unit.alunos_user" name="x_1766454_unit.alunos_user">f34d9947c3612210832cb8ddd4013195</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UNIT">003a1503c3612210832cb8ddd401317d</application>
+        <file_path/>
+        <instance_id>5d0397d03b3f4a18a36804e0b5e45a1b</instance_id>
+        <instance_name>dev284242</instance_name>
+        <name>sys_db_object_482d5147c3612210832cb8ddd40131cc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><is_extendable>false</is_extendable><label>Alunos</label><live_feed_enabled>false</live_feed_enabled><name>x_1766454_unit_alunos</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="User" name="sys_user">aa7ad932e802121087debb3e47d14f72</super_class><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-21 00:53:37</sys_created_on><sys_id>482d5147c3612210832cb8ddd40131cc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Alunos</sys_name><sys_package display_value="UNIT" source="x_1766454_unit">003a1503c3612210832cb8ddd401317d</sys_package><sys_policy/><sys_scope display_value="UNIT">003a1503c3612210832cb8ddd401317d</sys_scope><sys_update_name>sys_db_object_482d5147c3612210832cb8ddd40131cc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-21 00:53:37</sys_updated_on><update_access>false</update_access><user_role display_value="x_1766454_unit.alunos_user" name="x_1766454_unit.alunos_user">f34d9947c3612210832cb8ddd4013195</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>565155304</payload_hash>
+        <record_name>Alunos</record_name>
+        <reverted_from/>
+        <source>583a5d03c3612210832cb8ddd40131ce</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 00:53:39</sys_created_on>
+        <sys_id>dc5d1187c3612210832cb8ddd4013194</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196f054ec260000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 00:53:39</sys_updated_on>
+        <type>Table</type>
+        <update_guid>d05d1187e56122104f6f5190e5c0e194</update_guid>
+        <update_guid_history>d05d1187e56122104f6f5190e5c0e194:565155304</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-26 14:03:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>664d7432975b4052b7884401da683ce4</sys_id>
+        <sys_metadata>482d5147c3612210832cb8ddd40131cc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Alunos</sys_name>
+        <sys_package display_value="UNIT" source="x_1766454_unit">003a1503c3612210832cb8ddd401317d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">003a1503c3612210832cb8ddd401317d</sys_scope>
+        <sys_scope_delete display_value="">0de568ca5eef40d48428a7234bfe9f10</sys_scope_delete>
+        <sys_update_name>sys_db_object_482d5147c3612210832cb8ddd40131cc</sys_update_name>
+        <sys_update_version display_value="sys_db_object_482d5147c3612210832cb8ddd40131cc">dc5d1187c3612210832cb8ddd4013194</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-26 14:03:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

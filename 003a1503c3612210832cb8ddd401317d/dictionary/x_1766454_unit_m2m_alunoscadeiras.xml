@@ -3,12 +3,8 @@
         <element label="Nota 1" max_length="40" name="nota_1" type="integer"/>
         <element label="Nota 2 " max_length="40" name="nota_2" type="integer"/>
         <element attributes="encode_utf8=false" display="true" label="Cadeiras" max_length="32" name="x_1766454_unit_cadeiras" reference="x_1766454_unit_cadeiras" type="reference"/>
-        <element attributes="encode_utf8=false" label="Alunos" max_length="32" name="x_1766454_unit_alunos" reference="x_1766454_unit_alunos" type="reference"/>
         <element label="Média" max_length="40" name="media" type="integer"/>
         <index name="index">
-            <element name="x_1766454_unit_alunos"/>
-        </index>
-        <index name="index2">
             <element name="x_1766454_unit_cadeiras"/>
         </index>
     </element>

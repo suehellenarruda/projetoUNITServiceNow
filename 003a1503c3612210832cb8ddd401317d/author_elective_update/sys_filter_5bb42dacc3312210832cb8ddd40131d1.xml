@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_filter">
+    <sys_filter action="DELETE">
+        <filter table="x_1766454_unit_alunos">location=ab138e43c3252210832cb8ddd4013110^EQ<item display_table="cmn_location" display_value="UNIT SE" endquery="false" field="location" goto="false" newquery="false" operator="=" or="false" value="ab138e43c3252210832cb8ddd4013110"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <group/>
+        <last_used/>
+        <mobile>false</mobile>
+        <roles/>
+        <sys_class_name>sys_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-25 17:16:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5bb42dacc3312210832cb8ddd40131d1</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Alunos  UNIT-SE</sys_name>
+        <sys_package display_value="UNIT" source="x_1766454_unit">003a1503c3612210832cb8ddd401317d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">003a1503c3612210832cb8ddd401317d</sys_scope>
+        <sys_update_name>sys_filter_5bb42dacc3312210832cb8ddd40131d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-25 17:25:10</sys_updated_on>
+        <table>x_1766454_unit_alunos</table>
+        <title>Alunos  UNIT-SE</title>
+        <user/>
+    </sys_filter>
+    <sys_translated_text action="DELETE" query="documentkey=5bb42dacc3312210832cb8ddd40131d1"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UNIT">003a1503c3612210832cb8ddd401317d</application>
+        <file_path/>
+        <instance_id>5d0397d03b3f4a18a36804e0b5e45a1b</instance_id>
+        <instance_name>dev284242</instance_name>
+        <name>sys_filter_5bb42dacc3312210832cb8ddd40131d1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_filter"><sys_filter action="INSERT_OR_UPDATE"><filter table="x_1766454_unit_alunos">location=ab138e43c3252210832cb8ddd4013110^EQ<item display_table="cmn_location" display_value="UNIT SE" endquery="false" field="location" goto="false" newquery="false" operator="=" or="false" value="ab138e43c3252210832cb8ddd4013110"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><group/><last_used/><mobile>false</mobile><roles/><sys_class_name>sys_filter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-25 17:16:58</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5bb42dacc3312210832cb8ddd40131d1</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Alunos  UNIT-SE</sys_name><sys_package display_value="UNIT" source="x_1766454_unit">003a1503c3612210832cb8ddd401317d</sys_package><sys_policy/><sys_scope display_value="UNIT">003a1503c3612210832cb8ddd401317d</sys_scope><sys_update_name>sys_filter_5bb42dacc3312210832cb8ddd40131d1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-25 17:25:10</sys_updated_on><table>x_1766454_unit_alunos</table><title>Alunos  UNIT-SE</title><user/></sys_filter><sys_translated_text action="delete_multiple" query="documentkey=5bb42dacc3312210832cb8ddd40131d1"/></record_update>]]></payload>
+        <payload_hash>-730348162</payload_hash>
+        <record_name>Alunos  UNIT-SE</record_name>
+        <reverted_from/>
+        <source>c740a2c7c3a52210832cb8ddd4013182</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-25 17:25:10</sys_created_on>
+        <sys_id>a39621a0c3712210832cb8ddd4013113</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197087a1f430000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-25 17:25:10</sys_updated_on>
+        <type>Filter</type>
+        <update_guid>2b9621a07c712210c738892957513a12</update_guid>
+        <update_guid_history>2b9621a07c712210c738892957513a12:-730348162,04a52120007122103cb75810a4eb1bf1:-1789053020,03f461204c712210b7730896651e5ebe:1750328442,dfb42dacae3122102efc29fda78ac9d2:1168663732</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-26 14:03:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_filter">sys_filter</sys_db_object>
+        <sys_id>25fdb6a989ac4ee08a9ce6a2ad4fc310</sys_id>
+        <sys_metadata>5bb42dacc3312210832cb8ddd40131d1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Alunos  UNIT-SE</sys_name>
+        <sys_package display_value="UNIT" source="x_1766454_unit">003a1503c3612210832cb8ddd401317d</sys_package>
+        <sys_parent display_value="">482d5147c3612210832cb8ddd40131cc</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">003a1503c3612210832cb8ddd401317d</sys_scope>
+        <sys_scope_delete display_value="">0de568ca5eef40d48428a7234bfe9f10</sys_scope_delete>
+        <sys_update_name>sys_filter_5bb42dacc3312210832cb8ddd40131d1</sys_update_name>
+        <sys_update_version display_value="sys_filter_5bb42dacc3312210832cb8ddd40131d1">a39621a0c3712210832cb8ddd4013113</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-26 14:03:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
