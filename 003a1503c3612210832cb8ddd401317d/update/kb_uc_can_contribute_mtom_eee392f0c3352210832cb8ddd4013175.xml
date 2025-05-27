@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="kb_uc_can_contribute_mtom">
+    <kb_uc_can_contribute_mtom action="INSERT_OR_UPDATE">
+        <kb_knowledge_base display_value="Secretaria Virtual">19f016bcc3f12210832cb8ddd401313d</kb_knowledge_base>
+        <sys_class_name>kb_uc_can_contribute_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-26 15:21:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>eee392f0c3352210832cb8ddd4013175</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Secretaria Virtual.Secretários</sys_name>
+        <sys_package display_value="UNIT" source="x_1766454_unit">003a1503c3612210832cb8ddd401317d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">003a1503c3612210832cb8ddd401317d</sys_scope>
+        <sys_update_name>kb_uc_can_contribute_mtom_eee392f0c3352210832cb8ddd4013175</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-26 15:21:34</sys_updated_on>
+        <user_criteria display_value="Secretários">b6b35ef0c3352210832cb8ddd40131e7</user_criteria>
+    </kb_uc_can_contribute_mtom>
+</record_update>

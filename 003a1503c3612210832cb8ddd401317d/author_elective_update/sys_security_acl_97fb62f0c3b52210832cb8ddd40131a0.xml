@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>true</advanced>
+        <condition/>
+        <description/>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_1766454_unit_alunos.data_de_formacao</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-26 17:10:52</sys_created_on>
+        <sys_id>97fb62f0c3b52210832cb8ddd40131a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1766454_unit_alunos.data_de_formacao</sys_name>
+        <sys_package display_value="UNIT" source="x_1766454_unit">003a1503c3612210832cb8ddd401317d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">003a1503c3612210832cb8ddd401317d</sys_scope>
+        <sys_update_name>sys_security_acl_97fb62f0c3b52210832cb8ddd40131a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-26 17:10:52</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UNIT">003a1503c3612210832cb8ddd401317d</application>
+        <file_path/>
+        <instance_id>5d0397d03b3f4a18a36804e0b5e45a1b</instance_id>
+        <instance_name>dev284242</instance_name>
+        <name>sys_security_acl_97fb62f0c3b52210832cb8ddd40131a0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>true</advanced><condition/><description/><local_or_existing>Local</local_or_existing><name>x_1766454_unit_alunos.data_de_formacao</name><operation display_value="write">write</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-26 17:10:52</sys_created_on><sys_id>97fb62f0c3b52210832cb8ddd40131a0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1766454_unit_alunos.data_de_formacao</sys_name><sys_package display_value="UNIT" source="x_1766454_unit">003a1503c3612210832cb8ddd401317d</sys_package><sys_policy/><sys_scope display_value="UNIT">003a1503c3612210832cb8ddd401317d</sys_scope><sys_update_name>sys_security_acl_97fb62f0c3b52210832cb8ddd40131a0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-26 17:10:52</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>895079635</payload_hash>
+        <record_name>x_1766454_unit_alunos.data_de_formacao</record_name>
+        <reverted_from/>
+        <source>c740a2c7c3a52210832cb8ddd4013182</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-26 17:10:52</sys_created_on>
+        <sys_id>2bec62f0c3b52210832cb8ddd40131e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1970d9362b20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-26 17:10:52</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>2fec62f00fb52210e7dca8fbced07ddf</update_guid>
+        <update_guid_history>2fec62f00fb52210e7dca8fbced07ddf:895079635</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-26 17:15:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>3bbdb2cafcd941d29c2c8a88ea0afc64</sys_id>
+        <sys_metadata>97fb62f0c3b52210832cb8ddd40131a0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1766454_unit_alunos.data_de_formacao</sys_name>
+        <sys_package display_value="UNIT" source="x_1766454_unit">003a1503c3612210832cb8ddd401317d</sys_package>
+        <sys_parent display_value="Data de Formação">86274abcc3b12210832cb8ddd4013115</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">003a1503c3612210832cb8ddd401317d</sys_scope>
+        <sys_scope_delete display_value="">0de568ca5eef40d48428a7234bfe9f10</sys_scope_delete>
+        <sys_update_name>sys_security_acl_97fb62f0c3b52210832cb8ddd40131a0</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_97fb62f0c3b52210832cb8ddd40131a0">2bec62f0c3b52210832cb8ddd40131e0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-26 17:15:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="DELETE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <attributes>labelCacheCleanUpExecuted=true</attributes>
+        <authored_on_release_version>25000</authored_on_release_version>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <display_name_after_preview/>
+        <flow_priority>MEDIUM</flow_priority>
+        <generation_source/>
+        <internal_name>processo_de_matrcula_em_cadeira_acadmica</internal_name>
+        <label_cache>null</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Processo de Matrícula em Cadeira Acadêmica</name>
+        <natlang/>
+        <outputs/>
+        <pre_compiled>false</pre_compiled>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <run_with_roles/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <substatus/>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-26 20:56:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9b70e3b0c3b92210832cb8ddd40131c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Processo de Matrícula em Cadeira Acadêmica</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="UNIT" source="x_1766454_unit">003a1503c3612210832cb8ddd401317d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">003a1503c3612210832cb8ddd401317d</sys_scope>
+        <sys_update_name>sys_hub_flow_9b70e3b0c3b92210832cb8ddd40131c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-26 20:56:07</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="DELETE" query="documentkey=9b70e3b0c3b92210832cb8ddd40131c5"/>
+    <sys_variable_value action="DELETE" query="document_key=9b70e3b0c3b92210832cb8ddd40131c5"/>
+    <sys_hub_trigger_instance action="DELETE" query="flow=9b70e3b0c3b92210832cb8ddd40131c5"/>
+    <sys_hub_flow_stage action="DELETE" query="flow=9b70e3b0c3b92210832cb8ddd40131c5"/>
+    <sys_flow_cat_variable_model action="DELETE" query="id=9b70e3b0c3b92210832cb8ddd40131c5^sys_idNOT IN5370e3b0c3b92210832cb8ddd40131c6"/>
+    <sys_flow_cat_variable_model action="DELETE">
+        <id>9b70e3b0c3b92210832cb8ddd40131c5</id>
+        <name>Processo de Matrícula em Cadeira Acadêmica</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-26 20:56:07</sys_created_on>
+        <sys_id>5370e3b0c3b92210832cb8ddd40131c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-26 20:56:07</sys_updated_on>
+    </sys_flow_cat_variable_model>
+    <sys_flow_cat_variable action="DELETE" query="flow_catalog_model=5370e3b0c3b92210832cb8ddd40131c6"/>
+    <sys_hub_flow_input action="DELETE" query="model=9b70e3b0c3b92210832cb8ddd40131c5"/>
+    <sys_hub_flow_output action="DELETE" query="model=9b70e3b0c3b92210832cb8ddd40131c5"/>
+    <sys_hub_alias_mapping action="DELETE" query="source_id=9b70e3b0c3b92210832cb8ddd40131c5"/>
+    <sys_hub_action_instance action="DELETE" query="flow=9b70e3b0c3b92210832cb8ddd40131c5"/>
+    <sys_hub_sub_flow_instance action="DELETE" query="flow=9b70e3b0c3b92210832cb8ddd40131c5"/>
+    <sys_hub_flow_logic action="DELETE" query="flow=9b70e3b0c3b92210832cb8ddd40131c5"/>
+    <sys_hub_pill_compound action="DELETE" query="attached_to=9b70e3b0c3b92210832cb8ddd40131c5"/>
+    <sys_hub_flow_variable action="DELETE" query="model=9b70e3b0c3b92210832cb8ddd40131c5"/>
+    <sys_documentation action="DELETE" query="name=var__m_sys_hub_flow_input_9b70e3b0c3b92210832cb8ddd40131c5"/>
+    <sys_choice action="DELETE" query="name=var__m_sys_hub_flow_input_9b70e3b0c3b92210832cb8ddd40131c5"/>
+    <sys_documentation action="DELETE" query="name=var__m_sys_hub_flow_output_9b70e3b0c3b92210832cb8ddd40131c5"/>
+    <sys_choice action="DELETE" query="name=var__m_sys_hub_flow_output_9b70e3b0c3b92210832cb8ddd40131c5"/>
+    <sys_flow_trigger_plan action="DELETE" query="plan_id=9b70e3b0c3b92210832cb8ddd40131c5"/>
+    <sys_flow_subflow_plan action="DELETE" query="plan_id=9b70e3b0c3b92210832cb8ddd40131c5"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UNIT">003a1503c3612210832cb8ddd401317d</application>
+        <file_path/>
+        <instance_id>5d0397d03b3f4a18a36804e0b5e45a1b</instance_id>
+        <instance_name>dev284242</instance_name>
+        <name>sys_hub_flow_9b70e3b0c3b92210832cb8ddd40131c5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow"><sys_hub_flow action="INSERT_OR_UPDATE"><access>public</access><acls/><active>false</active><annotation/><attributes>labelCacheCleanUpExecuted=true</attributes><authored_on_release_version>25000</authored_on_release_version><callable_by_client_api>false</callable_by_client_api><category/><compiler_build/><copied_from/><copied_from_name/><description/><display_name_after_preview/><flow_priority>MEDIUM</flow_priority><generation_source/><internal_name>processo_de_matrcula_em_cadeira_acadmica</internal_name><label_cache>null</label_cache><latest_snapshot/><master_snapshot/><name>Processo de Matrícula em Cadeira Acadêmica</name><natlang/><outputs/><pre_compiled>false</pre_compiled><remote_trigger_id/><run_as>user</run_as><run_with_roles/><sc_callable>false</sc_callable><show_draft_actions>false</show_draft_actions><show_triggered_flows>false</show_triggered_flows><status>draft</status><substatus/><sys_class_name>sys_hub_flow</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-26 20:56:07</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9b70e3b0c3b92210832cb8ddd40131c5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Processo de Matrícula em Cadeira Acadêmica</sys_name><sys_overrides/><sys_package display_value="UNIT" source="x_1766454_unit">003a1503c3612210832cb8ddd401317d</sys_package><sys_policy/><sys_scope display_value="UNIT">003a1503c3612210832cb8ddd401317d</sys_scope><sys_update_name>sys_hub_flow_9b70e3b0c3b92210832cb8ddd40131c5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-26 20:56:07</sys_updated_on><type>flow</type></sys_hub_flow><sys_translated_text action="delete_multiple" query="documentkey=9b70e3b0c3b92210832cb8ddd40131c5"/><sys_variable_value action="delete_multiple" query="document_key=9b70e3b0c3b92210832cb8ddd40131c5"/><sys_hub_trigger_instance action="delete_multiple" query="flow=9b70e3b0c3b92210832cb8ddd40131c5"/><sys_hub_flow_stage action="delete_multiple" query="flow=9b70e3b0c3b92210832cb8ddd40131c5"/><sys_flow_cat_variable_model action="delete_multiple" query="id=9b70e3b0c3b92210832cb8ddd40131c5^sys_idNOT IN5370e3b0c3b92210832cb8ddd40131c6"/><sys_flow_cat_variable_model action="INSERT_OR_UPDATE"><id>9b70e3b0c3b92210832cb8ddd40131c5</id><name>Processo de Matrícula em Cadeira Acadêmica</name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-26 20:56:07</sys_created_on><sys_id>5370e3b0c3b92210832cb8ddd40131c6</sys_id><sys_mod_count>0</sys_mod_count><sys_scope/><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-26 20:56:07</sys_updated_on></sys_flow_cat_variable_model><sys_flow_cat_variable action="delete_multiple" query="flow_catalog_model=5370e3b0c3b92210832cb8ddd40131c6"/><sys_hub_flow_input action="delete_multiple" query="model=9b70e3b0c3b92210832cb8ddd40131c5"/><sys_hub_flow_output action="delete_multiple" query="model=9b70e3b0c3b92210832cb8ddd40131c5"/><sys_hub_alias_mapping action="delete_multiple" query="source_id=9b70e3b0c3b92210832cb8ddd40131c5"/><sys_hub_action_instance action="delete_multiple" query="flow=9b70e3b0c3b92210832cb8ddd40131c5"/><sys_hub_sub_flow_instance action="delete_multiple" query="flow=9b70e3b0c3b92210832cb8ddd40131c5"/><sys_hub_flow_logic action="delete_multiple" query="flow=9b70e3b0c3b92210832cb8ddd40131c5"/><sys_hub_pill_compound action="delete_multiple" query="attached_to=9b70e3b0c3b92210832cb8ddd40131c5"/><sys_hub_flow_variable action="delete_multiple" query="model=9b70e3b0c3b92210832cb8ddd40131c5"/><sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_input_9b70e3b0c3b92210832cb8ddd40131c5"/><sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_9b70e3b0c3b92210832cb8ddd40131c5"/><sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_output_9b70e3b0c3b92210832cb8ddd40131c5"/><sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_9b70e3b0c3b92210832cb8ddd40131c5"/><sys_flow_trigger_plan action="delete_multiple" query="plan_id=9b70e3b0c3b92210832cb8ddd40131c5"/><sys_flow_subflow_plan action="delete_multiple" query="plan_id=9b70e3b0c3b92210832cb8ddd40131c5"/></record_update>]]></payload>
+        <payload_hash>-1122263642</payload_hash>
+        <record_name>Processo de Matrícula em Cadeira Acadêmica</record_name>
+        <reverted_from/>
+        <source>c740a2c7c3a52210832cb8ddd4013182</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-26 20:56:07</sys_created_on>
+        <sys_id>1f70e3b0c3b92210832cb8ddd40131c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1970e619cce0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-26 20:56:07</sys_updated_on>
+        <type>Flow</type>
+        <update_guid>1370e3b01bb922103d8a86029dbe44c9</update_guid>
+        <update_guid_history>1370e3b01bb922103d8a86029dbe44c9:-1122263642</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-26 21:07:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_hub_flow">sys_hub_flow</sys_db_object>
+        <sys_id>b823c10297f44d86a76ed218f7526104</sys_id>
+        <sys_metadata>9b70e3b0c3b92210832cb8ddd40131c5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Processo de Matrícula em Cadeira Acadêmica</sys_name>
+        <sys_package display_value="UNIT" source="x_1766454_unit">003a1503c3612210832cb8ddd401317d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">003a1503c3612210832cb8ddd401317d</sys_scope>
+        <sys_scope_delete display_value="">0de568ca5eef40d48428a7234bfe9f10</sys_scope_delete>
+        <sys_update_name>sys_hub_flow_9b70e3b0c3b92210832cb8ddd40131c5</sys_update_name>
+        <sys_update_version display_value="sys_hub_flow_9b70e3b0c3b92210832cb8ddd40131c5">1f70e3b0c3b92210832cb8ddd40131c9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-26 21:07:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

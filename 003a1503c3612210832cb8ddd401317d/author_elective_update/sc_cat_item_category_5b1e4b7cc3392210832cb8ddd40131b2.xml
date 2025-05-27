@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Solicitação de Matrícula em Cadeira">e6eb03f8c3392210832cb8ddd4013128</sc_cat_item>
+        <sc_category display_value="Serviços Acadêmicos">b0ed433cc3392210832cb8ddd40131b0</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-26 19:35:51</sys_created_on>
+        <sys_id>5b1e4b7cc3392210832cb8ddd40131b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Serviços Acadêmicos.Solicitação de Matrícula em Cadeira</sys_name>
+        <sys_package display_value="UNIT" source="x_1766454_unit">003a1503c3612210832cb8ddd401317d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">003a1503c3612210832cb8ddd401317d</sys_scope>
+        <sys_update_name>sc_cat_item_category_5b1e4b7cc3392210832cb8ddd40131b2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-26 19:35:51</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UNIT">003a1503c3612210832cb8ddd401317d</application>
+        <file_path/>
+        <instance_id>5d0397d03b3f4a18a36804e0b5e45a1b</instance_id>
+        <instance_name>dev284242</instance_name>
+        <name>sc_cat_item_category_5b1e4b7cc3392210832cb8ddd40131b2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Solicitação de Matrícula em Cadeira">e6eb03f8c3392210832cb8ddd4013128</sc_cat_item><sc_category display_value="Serviços Acadêmicos">b0ed433cc3392210832cb8ddd40131b0</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-26 19:35:51</sys_created_on><sys_id>5b1e4b7cc3392210832cb8ddd40131b2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Serviços Acadêmicos.Solicitação de Matrícula em Cadeira</sys_name><sys_package display_value="UNIT" source="x_1766454_unit">003a1503c3612210832cb8ddd401317d</sys_package><sys_policy/><sys_scope display_value="UNIT">003a1503c3612210832cb8ddd401317d</sys_scope><sys_update_name>sc_cat_item_category_5b1e4b7cc3392210832cb8ddd40131b2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-26 19:35:51</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-2125266675</payload_hash>
+        <record_name>Serviços Acadêmicos.Solicitação de Matrícula em Cadeira</record_name>
+        <reverted_from/>
+        <source>c740a2c7c3a52210832cb8ddd4013182</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-26 19:35:51</sys_created_on>
+        <sys_id>971e4b7cc3392210832cb8ddd40131b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1970e181ee70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-26 19:35:51</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>9b1e4b7c2839221061be6c3e016270b5</update_guid>
+        <update_guid_history>9b1e4b7c2839221061be6c3e016270b5:-2125266675</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Serviços Acadêmicos.Solicitação de Matrícula em Cadeira">2b2a1bf8c3792210832cb8ddd40131e4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-26 20:28:34</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>05bfb4143ed74e9097ef57242bf09c90</sys_id>
+        <sys_metadata>5b1e4b7cc3392210832cb8ddd40131b2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Serviços Acadêmicos.Solicitação de Matrícula em Cadeira</sys_name>
+        <sys_package display_value="UNIT" source="x_1766454_unit">003a1503c3612210832cb8ddd401317d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">003a1503c3612210832cb8ddd401317d</sys_scope>
+        <sys_scope_delete display_value="">0de568ca5eef40d48428a7234bfe9f10</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_5b1e4b7cc3392210832cb8ddd40131b2</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_5b1e4b7cc3392210832cb8ddd40131b2">971e4b7cc3392210832cb8ddd40131b6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-26 20:28:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

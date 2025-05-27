@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Solicitação de Serviços Acadêmicos</name>
+        <order>100</order>
+        <roles>x_1766454_unit.solicita_o_de_servi_os_acad_micos_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-26 19:19:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>887a8f38c3392210832cb8ddd40131f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Solicitação de Serviços Acadêmicos</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="UNIT" source="x_1766454_unit">003a1503c3612210832cb8ddd401317d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">003a1503c3612210832cb8ddd401317d</sys_scope>
+        <sys_update_name>sys_app_application_887a8f38c3392210832cb8ddd40131f5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-26 19:19:46</sys_updated_on>
+        <title>Solicitação de Serviços Acadêmicos</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
